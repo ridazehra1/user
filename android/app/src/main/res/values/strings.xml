@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">fixhome</string>
+<string name="facebook_app_id">325215942788921</string>
+<string name="fb_login_protocol_scheme">fb325215942788921</string>
+<string name="facebook_client_token">88921</string>
+
+</resources>

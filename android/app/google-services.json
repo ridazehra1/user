@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "715620224850",
+    "project_id": "fixhomee-f921c",
+    "storage_bucket": "fixhomee-f921c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715620224850:android:cfc961face309f51e9748b",
+        "android_client_info": {
+          "package_name": "com.example.fixhome3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715620224850-1r1ka9acupl086v590g1b2qc12ar03os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixhome3",
+            "certificate_hash": "6f3cec36e60987099293ead1ce949b8f711856c4"
+          }
+        },
+        {
+          "client_id": "715620224850-0hhmajjs4i625mfujo5je235mcgn8qk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvnMqXHqfOdmkc7frRih7Sp6U1g81hhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715620224850-0hhmajjs4i625mfujo5je235mcgn8qk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
